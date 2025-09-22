@@ -1,0 +1,24 @@
+# Add required packages here
+flask
+flask-cors
+flask-session
+flask-socketio
+requests
+numpy
+pandas
+scikit-learn
+openpyxl
+spacy
+faiss-cpu
+sentence-transformers
+streamlit
+docx2txt
+python-docx
+boto3
+botocore
+aspose-words
+chardet
+PyMuPDF
+bokeh
+google-generativeai
+uuid
